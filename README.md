@@ -1,0 +1,3 @@
+This is a useful tool for looking at mathematical graphs (graph theory, not cartesian graphs). It allows you to move them around, exploring different possible projections of the same graph. It also lets you generate the adjacency matrix for a graph, which is very useful when you want to input a graph into a different program for analysis. See website here:
+
+https://adam-kosinski.github.io/Draw-Graph/index.html
